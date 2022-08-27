@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1012274455424",
+    "project_id": "tasknina-f0977",
+    "storage_bucket": "tasknina-f0977.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1012274455424:android:d9d770d6b1fd38eb8c5765",
+        "android_client_info": {
+          "package_name": "com.example.nina_task"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1012274455424-km0o7i6g5mip7tkoo01263nlnj5qhbko.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWf-YPIvETIateD9w-rfOc5MoaKozHaCg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1012274455424-km0o7i6g5mip7tkoo01263nlnj5qhbko.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
